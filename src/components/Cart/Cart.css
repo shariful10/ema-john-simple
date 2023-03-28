@@ -1,0 +1,25 @@
+.cart {
+    top: 0;
+	padding: 30px;
+    position: sticky;
+	background-color: #ff99004d;
+}
+
+.cart h4 {
+	font-size: 25px;
+	margin-top: 0;
+	margin-bottom: 50px;
+    font-weight: 400;
+}
+
+.cart p {
+	font-size: 17px;
+	margin-top: 0;
+	margin-bottom: 25px;
+}
+
+.cart h6 {
+	margin-top: 0;
+	font-size: 21px;
+    font-weight: 400;
+}
