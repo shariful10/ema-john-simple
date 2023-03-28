@@ -1,7 +1,9 @@
 .cart {
-    top: 80px;
+    top: 130px;
 	padding: 30px;
     position: sticky;
+	margin-right: 45px;
+	border-radius: 8px;
 	background-color: #ff99004d;
 }
 
